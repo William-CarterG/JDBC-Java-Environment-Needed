@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app>
+
+    <servlet>
+        <servlet-name>EmployeesList</servlet-name>
+        <servlet-class>EmployeesList</servlet-class>
+    </servlet>
+    
+    <servlet>
+        <servlet-name>UpdateExtension</servlet-name>
+        <servlet-class>UpdateExtension</servlet-class>
+    </servlet>
+    
+    <servlet-mapping>
+        <servlet-name>EmployeesList</servlet-name>
+        <url-pattern>/EmployeesList</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>UpdateExtension</servlet-name>
+        <url-pattern>/UpdateExtension</url-pattern>
+    </servlet-mapping>
+
+</web-app>

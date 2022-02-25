@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [08/Jan/2018:15:13:21 +0000] "GET /northbrick/ HTTP/1.1" 404 1089
+0:0:0:0:0:0:0:1 - - [08/Jan/2018:15:13:21 +0000] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [08/Jan/2018:15:13:48 +0000] "GET /northbrick/indexLogin.html HTTP/1.1" 404 1104
+0:0:0:0:0:0:0:1 - - [08/Jan/2018:15:14:02 +0000] "GET /northbrick2 HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [08/Jan/2018:15:14:35 +0000] "GET /northbrick/indexLogin.html HTTP/1.1" 404 1104
+0:0:0:0:0:0:0:1 - - [08/Jan/2018:15:14:41 +0000] "GET /examples HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [08/Jan/2018:15:14:41 +0000] "GET /examples/ HTTP/1.1" 200 1156
+0:0:0:0:0:0:0:1 - - [08/Jan/2018:15:14:43 +0000] "GET /examples/servlets HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [08/Jan/2018:15:14:43 +0000] "GET /examples/servlets/ HTTP/1.1" 200 6599
+0:0:0:0:0:0:0:1 - - [08/Jan/2018:15:14:43 +0000] "GET /examples/servlets/images/code.gif HTTP/1.1" 200 292
+0:0:0:0:0:0:0:1 - - [08/Jan/2018:15:14:43 +0000] "GET /examples/servlets/images/return.gif HTTP/1.1" 200 1231
+0:0:0:0:0:0:0:1 - - [08/Jan/2018:15:14:43 +0000] "GET /examples/servlets/images/execute.gif HTTP/1.1" 200 1242
+0:0:0:0:0:0:0:1 - - [08/Jan/2018:15:14:47 +0000] "GET /examples/servlets/servlet/HelloWorldExample HTTP/1.1" 200 400
